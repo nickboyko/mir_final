@@ -1,4 +1,4 @@
-# Automatic Music Transcription (AMT) Post-Processing Pipeline
+# Automatic Music Transcription (AMT): CREPE Post-Processing 
 
 This project is a post-processing pipeline for the CREPE model, designed to enhance pitch detection accuracy in automatic music transcription tasks. The project leverages the ChoralSingingDataset to evaluate and refine transcription results via rhythm quantization. We then generate a MusicXML file that contains the transcription of the given source audio.
 
